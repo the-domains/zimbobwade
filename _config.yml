@@ -1,6 +1,6 @@
 name: zimbobwade
 favicon: null
-layout_spectrum: 0.945238662417978
+layout_spectrum: 0
 typography_spectrum: 0.7069745762273669
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9330269272904843
+    - '#46618c'
+    - '#5487cc'
+    - '#0d0d0f'
+    - '#a7bde6'
+    - '#e8dfc0'
+  brandStrength: 0.5
   lightness: 0.43540775985457003
   saturation: 0.4156837956979871
   rhythmicContrast: 0.8289541280828416
