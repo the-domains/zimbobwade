@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[zimbobwade]]></title>
         <description><![CDATA[zimbobwade]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/zimbobwade/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 19:30:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 19:31:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/zimbobwade/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfd02135-70ea-4cee-b756-dad4914dd2b6.jpg">]]></description>
-            <link>undefinedmy-california-soul/index.html</link>
+            <link>https://thegrid.ai/zimbobwade/my-california-soul/index.html</link>
             <guid isPermaLink="false">0850ae58-ec3b-4eef-9432-3dfffbb2f2ae</guid>
-            <pubDate>Wed, 17 Aug 2016 19:30:00 GMT</pubDate>
+            <pubDate>Wed, 17 Aug 2016 19:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
